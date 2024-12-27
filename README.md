@@ -1,61 +1,76 @@
-Nitin Mahadev Mane - Salesforce Developer
-Salesforce Developer | 1x Salesforce Certified | 1x Trailhead Ranger | Apex Trigger Superbadge | Trailhead LWC Superbadges
+# 💻 **Nitin Mahadev Mane**  
+**Salesforce Developer | 1x Salesforce Certified | 1x Trailhead Ranger**  
+🌟 *Dedicated to building efficient Salesforce solutions and enhancing user experiences!*  
 
-About Me
-Hello! I'm Nitin Mahadev Mane, a dedicated Salesforce Developer with over 3 years of experience. I specialize in Salesforce development, including Apex, Lightning Web Components (LWC), and REST APIs. Passionate about leveraging technology to enhance user experiences and drive business growth, I am committed to continuous learning in the ever-evolving Salesforce ecosystem.
+---
 
-My Skills
-Admin Skills
-Validation Rules
-Workflow Rules
-Sharing Settings
-Permission Sets
-Approval Processes
-Reports and Dashboards
-Data Import and Export
-Custom Fields and Objects
-Development Skills
-Apex Classes and Triggers
-Asynchronous Apex
-Apex REST Services
-Lightning Web Components (LWC)
-Integration with External Systems (REST APIs)
-Deployment using ChangeSets
-Tools
-Postman and Hoppscotch for API Testing
-Proficient in Salesforce Security Models
-Certifications
-Platform Developer I Certification
-Certified on: April 2024
+### 📋 **About Me**  
+Hi there! 👋  
+I’m **Nitin Mahadev Mane**, a passionate **Salesforce Developer** with over **3 years of experience** in delivering innovative solutions using Salesforce technologies like **Apex, Lightning Web Components (LWC), and REST APIs**. I thrive on solving complex problems and leveraging technology to drive business growth.
 
-Trailhead Ranger Certification
-Completed on: March 2024
+---
 
-Visit My Trailhead Profile: Click Here
-Salesforce Blog
-Blog Post 1: Understanding Salesforce Apex Triggers
-Discover the basics of Salesforce Apex Triggers and how they can automate business processes.
-Read More
+### ⚡ **Quick Highlights**
+- **Salesforce Expertise:** Apex Classes, Triggers, Asynchronous Apex, LWC, and REST API Integration  
+- **Admin Skills:** Workflow Rules, Validation Rules, Reports, and Dashboards  
+- **Certifications:**  
+  - 🏅 *Platform Developer I Certified (April 2024)*  
+  - 🏆 *Trailhead Ranger (March 2024)*  
+- **Superbadges:** Apex Triggers | LWC Superbadges  
+- **Tools:** Postman, Hoppscotch  
 
-Blog Post 2: Building Lightning Web Components
-Learn how to create efficient and reusable Lightning Web Components.
-Read More
+---
 
-Blog Post 3: Integrating Salesforce with REST APIs
-Explore integration methods for connecting Salesforce with external systems.
-Read More
+### 🛠️ **Skills**
+#### **Admin Skills**
+- Validation Rules | Workflow Rules  
+- Sharing Settings | Permission Sets  
+- Approval Processes | Reports & Dashboards  
+- Data Import/Export | Custom Fields & Objects  
 
-Professional Highlights
-Expertise in Salesforce Development (Apex, Asynchronous Apex, Triggers, LWC)
-Skilled in REST API Integration and ChangeSet Deployment
-Strong problem-solving and analytical abilities
-Contact Me
-Name: Nitin Mahadev Mane
-Email: [Your Email Here]
-LinkedIn: Visit My Profile
-Trailhead: Visit My Profile
+#### **Development Skills**
+- Apex Classes and Triggers  
+- Lightning Web Components (LWC)  
+- Asynchronous Apex | Apex REST Services  
+- Integration with REST APIs  
+- Deployment using ChangeSets  
 
-Looking for new opportunities?
-If you know of any roles that match my profile, please refer me!
+---
 
-© 2024 Nitin Mahadev Mane. Powered by Teraita Inc.
+### 📚 **My Blog**
+🌟 Sharing my knowledge and insights on Salesforce development:  
+- **[Understanding Salesforce Apex Triggers](#)**  
+  *Learn how Apex Triggers can automate your business processes efficiently.*  
+- **[Building Lightning Web Components](#)**  
+  *Step-by-step guide to creating reusable and scalable LWCs.*  
+- **[Integrating Salesforce with REST APIs](#)**  
+  *Master the techniques to connect Salesforce with external systems.*
+
+---
+
+### 🎓 **Certifications**
+🏅 **Platform Developer I Certification**  
+*Certified in April 2024*  
+
+🏆 **Trailhead Ranger Certification**  
+*Completed in March 2024*  
+
+🔗 **[Visit My Trailhead Profile](#)**  
+
+---
+
+### 🌐 **Connect with Me**  
+📫 **Email:** [YourEmail@example.com](mailto:YourEmail@example.com)  
+💼 **LinkedIn:** [Visit My Profile](#)  
+💻 **Portfolio/Website:** [YourPortfolioLink.com](#)  
+
+🚀 *Looking for new opportunities!* If you know of any roles that match my skills, feel free to refer me.  
+
+---
+
+### 📈 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitinMahadev&show_icons=true&theme=radical)
+
+---
+
+© 2024 Nitin Mahadev Mane. *Crafted with ❤️ and passion for Salesforce development.*
