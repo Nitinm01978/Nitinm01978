@@ -1,4 +1,14 @@
-<h1 align="center">✨ <marquee behavior="alternate">Nitin Mahadev Mane</marquee> ✨</h1>
+<h1 align="center">✨ <span style="display: inline-block; overflow: hidden; white-space: nowrap;">
+  <span style="display: inline-block; animation: marquee 5s linear infinite;">Nitin Mahadev Mane</span>
+</span> ✨</h1>
+
+<style>
+@keyframes marquee {
+  0% { transform: translateX(100%); }
+  100% { transform: translateX(-100%); }
+}
+</style>
+
 <p align="center">
   <strong>Salesforce Developer | 2x Salesforce Certified | 2x Trailhead Ranger</strong><br>
   <em>Empowering businesses with tailored Salesforce solutions and exceptional user experiences!</em>
