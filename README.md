@@ -1,70 +1,58 @@
-<h1 align="center">✨ <span style="display: inline-block; overflow: hidden; white-space: nowrap;">
-  <span style="display: inline-block; animation: marquee 5s linear infinite;">Nitin Mahadev Mane</span>
-</span> ✨</h1>
-
-<style>
-@keyframes marquee {
-  0% { transform: translateX(100%); }
-  100% { transform: translateX(-100%); }
-}
-</style>
-
+<h1 align="center">✨ Nitin Mahadev Mane ✨</h1>
 <p align="center">
   <strong>Salesforce Developer | 2x Salesforce Certified | 2x Trailhead Ranger</strong><br>
-  <em>Empowering businesses with tailored Salesforce solutions and exceptional user experiences!</em>
+  Passionate about building robust Salesforce solutions to empower businesses and enhance user experiences!
 </p>
 
 ---
 
 ## 🖥️ **About Me**
 
-Hi there! I'm **Nitin Mahadev Mane**, a passionate Salesforce Developer with **3.8+ years** of hands-on experience in creating scalable and impactful Salesforce solutions. My focus is on delivering high-performance systems that enhance business operations and user satisfaction.
+Hi! I'm Nitin Mahadev Mane, a skilled Salesforce Developer with over 3.8 years of experience in designing scalable and impactful Salesforce solutions. My expertise lies in Apex, LWC, and REST APIs, enabling businesses to maximize their Salesforce potential.
 
-### 🔍 **What I Bring to the Table**
-- 🚀 **Scalable Salesforce Development**: Apex, Lightning Web Components (LWC), and REST APIs.
-- 🤝 **Seamless Integrations**: Connecting Salesforce to external systems for streamlined workflows.
-- 🎨 **User-Centric Design**: Building intuitive and reusable Lightning Web Components.
-- 🧠 **Problem Solving**: Tackling complex business challenges with custom Apex solutions.
+### 🔍 **What I Do**
+- Develop and optimize Salesforce solutions for better performance and scalability.
+- Integrate Salesforce with external systems to ensure seamless workflows.
+- Design intuitive and reusable Lightning Web Components.
+- Solve complex business challenges with custom Apex solutions.
 
-💡 **Exploring new opportunities!** Let's collaborate to create meaningful Salesforce experiences.
+💡 **Currently exploring new opportunities!** Feel free to reach out if my skills align with your needs.
 
 ---
 
 ## 🚀 **Skills at a Glance**
 
-### 🛠️ **Salesforce Development Expertise**
+### 🛠️ Salesforce Development
 - Apex Classes & Triggers
-- Asynchronous Apex (Batch, Queueable, Future)
+- Asynchronous Apex
 - REST & SOAP APIs
 - Lightning Web Components (LWC)
-- External System Integrations
+- Integrations with External Systems
 
-### 📋 **Admin & Functional Skills**
-- Validation & Workflow Rules
+### 📋 Admin Skills
+- Validation Rules, Workflow Rules
 - Sharing Settings & Permission Sets
 - Approval Processes
-- Advanced Reports & Dashboards
-- Data Management (Import/Export)
+- Reports & Dashboards
+- Data Import/Export
 
 ---
 
-## 🏅 **Certifications & Achievements**
+## 🏅 **Certifications**
 
-- 🎓 **Salesforce Certified Platform Developer I**
-- 🤖 **Salesforce Certified AI Associate**
-- 🥇 **Trailhead Ranger**: Mastered 200+ Trailhead badges
+- **Platform Developer I**
+- **AI Associate**
+- **Trailhead Ranger**
 
 ---
 
-## ✍️ **Blogs & Insights**
+## ✍️ **My Blog**
 
-🌟 Sharing my journey and best practices in the Salesforce ecosystem:
+🌟 Sharing insights and best practices in the Salesforce ecosystem:
 
-- **[Mastering Apex Triggers](#)**: Streamline your business logic effectively.
-- **[Crafting Lightning Web Components](#)**: Build reusable and scalable LWCs.
-- **[Integrating Salesforce with REST APIs](#)**: Unlock the power of external systems.
-
-Stay tuned for more insights and how-tos!
+- **[Understanding Salesforce Apex Triggers](#)**: Automate business processes effectively.
+- **[Building Lightning Web Components](#)**: Learn to create scalable and reusable LWCs.
+- **[Integrating Salesforce with REST APIs](#)**: Discover how to connect Salesforce with external systems.
 
 ---
 
@@ -77,7 +65,7 @@ Stay tuned for more insights and how-tos!
 
 ---
 
-## 🌐 **Connect with Me**
+## 🌐 **Let's Connect**
 
 <p align="center">
   <a href="mailto:Nitinmanecomp@gmail.com">
@@ -91,11 +79,12 @@ Stay tuned for more insights and how-tos!
   </a>
 </p>
 
+
 ---
 
-## 💬 **Quote to Live By**
+## 💬 **Quote**
 
-> "Technology, when driven by passion and purpose, transforms businesses into game-changers."
+> "Technology, when used with passion and purpose, can truly transform businesses."
 
 <p align="center">
   <strong>© 2024 Nitin Mahadev Mane</strong><br>
