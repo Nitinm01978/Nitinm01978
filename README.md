@@ -67,7 +67,7 @@ Hi! I'm Nitin Mahadev Mane, a skilled Salesforce Developer with over 3 years of 
 ## 🌐 **Let's Connect**
 
 <p align="center">
-  <a href="mailto:Nitinmanecomp@gmail.com"><img src="https://mail.google.com/mail/u/0/#inbox"></a>
+  <a href="mailto:Nitinmanecomp@gmail.com"><img src="https://mail.google.com/mail/u/0/#inbox](https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email Icon" width="40"></a>
   <a href="https://www.linkedin.com/in/nitinmahadevmane/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://trailhead.salesforce.com/en/me/nitinmahadevmane"><img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"></a>
 </p>
