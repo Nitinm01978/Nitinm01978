@@ -1,4 +1,4 @@
-<h1 align="center">✨ Nitin Mahadev Mane ✨</h1>
+<h1 align="center">✨ <marquee behavior="alternate">Nitin Mahadev Mane</marquee> ✨</h1>
 <p align="center">
   <strong>Salesforce Developer | 2x Salesforce Certified | 2x Trailhead Ranger</strong><br>
   <em>Empowering businesses with tailored Salesforce solutions and exceptional user experiences!</em>
